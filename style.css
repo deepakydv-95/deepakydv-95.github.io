@@ -3,7 +3,7 @@
   height:60px;
   margin:0 auto 20px;
   border-radius:50%;
-  object-fit:cover;
+  object-fit:contain;
   display:block;
   border:3px solid #7c8cff;
   overflow: hidden;
